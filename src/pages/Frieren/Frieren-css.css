@@ -1,0 +1,15 @@
+.frieren {
+    width: 700px;
+}
+
+.principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero {
+    display: flex;
+    margin: 25px;
+    gap: 25px;
+}

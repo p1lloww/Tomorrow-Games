@@ -1,0 +1,12 @@
+.card {
+    background-color: aqua;
+    display: inline-block;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-left: 25px;
+    
+}
