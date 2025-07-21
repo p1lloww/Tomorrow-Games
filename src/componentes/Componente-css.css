@@ -3,7 +3,6 @@ h2 {
 }
 
 p {
-    width: 1655px;
     font-size: 150%;
 }
 
@@ -16,6 +15,7 @@ h3 {
     background-color: rgb(223, 225, 255);
     display: flex;
     flex-direction: column;
+    width: 500px;
 }
 
 .info {

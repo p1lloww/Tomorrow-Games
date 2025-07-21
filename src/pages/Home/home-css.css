@@ -1,5 +1,15 @@
-.home {
+.games {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 50px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    font-size: 20px;
+    color: aliceblue;
 }
