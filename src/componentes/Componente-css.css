@@ -1,6 +1,21 @@
+h2 {
+    font-size: 200%;
+}
+
+p {
+    width: 1655px;
+    font-size: 150%;
+}
+
+h3 {
+    font-size: 200%;
+}
+
+
 .card {
-    background-color: aqua;
-    display: inline-block;
+    background-color: rgb(223, 225, 255);
+    display: flex;
+    flex-direction: column;
 }
 
 .info {
@@ -8,5 +23,4 @@
     flex-direction: column;
     align-items: start;
     margin-left: 25px;
-    
 }

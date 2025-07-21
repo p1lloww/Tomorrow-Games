@@ -1,15 +1,14 @@
-import frieren from "./wallpaperFrieren.jpg"
-import landscape from "./frieren-landscape.jpeg"
-import "./Frieren-css.css"
+import tboi from "./tboiwall.jpg"
+import landscape from "./tboiwall.jpg"
 
 export default function Frieren() {
     return (
         <div className="principal">
             <div className="hero">
-                <h1>Frieren game</h1>
+                <h1>tboi</h1>
                 <div className="hero-sem-titulo">
                     <div className="esquerda">
-                        <img src={frieren} alt="frieren" className="frieren" />
+                        <img src={tboi} alt="tboi" className="frieren" />
                     </div>
                     <div className="direita">
                         <img src={landscape} alt="landscape" className="imagem-direita" />

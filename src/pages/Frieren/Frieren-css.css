@@ -1,15 +1,38 @@
-.frieren {
-    width: 700px;
-}
-
-.principal {
+body {
+    background: #444;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .hero {
+    background: aliceblue;
     display: flex;
+    flex-direction: column;
     margin: 25px;
     gap: 25px;
+    padding: 50px;
+    align-items: center;
+}
+
+.hero-sem-titulo {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.frieren {
+    width: 800px;
+}
+
+.esquerda {
+    width: max-content;
+}
+
+.direita {
+    width: 700px;
+}
+
+.imagem-direita {
+    width: 400px;
 }
